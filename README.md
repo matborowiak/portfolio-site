@@ -1,2 +1,2 @@
 # My Portfolio Website
-This is a light portfolio website I tried to utilize modern webdev stack including Webpack, React and React Router
+This is a lightweight portfolio website where I aimed to utilize a modern web development stack, including Webpack, React, and React Router.
